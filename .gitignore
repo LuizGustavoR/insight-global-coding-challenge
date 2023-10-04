@@ -1,0 +1,12 @@
+# IntelliJ IDEA files
+.idea/
+
+# Compiled class files
+target/
+*.class
+
+# Maven build directory
+/bin/
+
+# Dependency directories
+/lib/
