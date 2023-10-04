@@ -39,7 +39,6 @@ public class Main {
                 result.append(character);
             }
 
-
             return result.toString();
         }
 
